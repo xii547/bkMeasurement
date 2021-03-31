@@ -1,0 +1,46 @@
+/* Medium Layout: 1440px. */
+@media only screen and (min-width: 1440px) {
+    .single-item-box {
+	width: 180px;
+}
+}
+/* Medium Layout: 1600px. */
+@media only screen and (min-width: 1600px) {
+    .single-item-box {
+        width: 208px;
+    }
+}
+/* Medium Layout: 1600px. */
+@media only screen and (min-width: 1920px) {
+   .single-item-box {
+	width: 270px;
+	margin: 10px 10px 15px 17px;
+}
+}
+}
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 1281px) and (max-width: 1440px) {
+
+}
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+    .single-item-box {
+	width: 150px;
+}
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+    .slicknav_menu {
+        display: block;
+    }
+.headermenu .mainmneu ul {
+	display: none;
+}
+}
